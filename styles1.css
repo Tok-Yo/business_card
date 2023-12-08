@@ -1,0 +1,50 @@
+body{
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.avatar{
+    width: 150px;
+    border-radius: 10px;
+}   
+     
+    
+
+
+
+.card{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #FAE8C0;
+    color: #893E16;
+    border-bottom: 4px solid #893E16 ;   
+    border-radius: 6px;   
+}
+
+h3{
+    font-size: 25px;
+
+}
+h4{
+    font-size:15px;
+    margin-top:0;
+
+    
+}
+p{
+    margin-bottom:0px;
+    margin-top: 10px;
+    
+}
+
+.worth{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-weight: 550;
+    
+    
+}
